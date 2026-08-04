@@ -8,7 +8,7 @@ import json
 load_dotenv()
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
-st.set_page_config(page_title="FirstGlance — AI Ticket Triage", layout="wide", page_icon="🎫")
+st.set_page_config(page_title="FirstGlance — AI Ticket Triage", layout="wide")
 
 CLASSIFICATION_PROMPT = """You are a support ticket triage assistant for Monzo, a UK digital bank.
 
