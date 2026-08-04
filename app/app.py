@@ -11,7 +11,7 @@ load_dotenv()  # for local development
 api_key = st.secrets.get("GROQ_API_KEY", os.environ.get("GROQ_API_KEY"))
 client = Groq(api_key=api_key)
 
-st.set_page_config(page_title="FirstGlance — AI Ticket Triage", layout="wide")
+st.set_page_config(page_title="FirstGlance", layout="wide")
 
 CLASSIFICATION_PROMPT = """You are a support ticket triage assistant for Monzo, a UK digital bank.
 
