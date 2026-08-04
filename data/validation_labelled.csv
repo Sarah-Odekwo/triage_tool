@@ -1,29 +1,29 @@
 ticket_id,ticket_text,true_category,true_urgency
-T002,I've been charged £10.99 for a subscription I don't recognise. Can you tell me what it's for and how to cancel?,billing,medium
-T003,"I'm trying to log in but the app keeps crashing. I've tried restarting my phone and updating the app, nothing's working.",technical,medium
-T004,I'd love to see a feature that allows me to split bills with friends more easily. Maybe a button to request money from multiple people at once?,other,low
-T050,"I love the new budgeting features, but it'd be great if you could add a way to track investments too. Just a suggestion!",other,low
-T069,"I'm having some trouble with the app. Sometimes it works, sometimes it doesn't. I've tried uninstalling and reinstalling but nothing seems to be working. Can you help me troubleshoot the issue?",technical,medium
-T082,The app just crashed on me and now I've lost all my pending payments. Can you guys do something about this? It's a bit of a disaster,technical,medium
-T086,"The Monzo card is great and all, but the contactless limit is a bit of a pain. Can we please increase it to like, £100 or something?",other,low
-T087,"I'm having some issues with currency conversion fees. I was charged 3% on a recent trip to the US, but I thought Monzo didn't charge for that? Can someone clarify?",billing,medium
-T090,"Monzo's great and all, but the customer support could be better. I've been waiting for a response for days and it's a bit frustrating. Can we please improve this?",other,low
-T092,App keeps crashing on me every time I try to make a payment. Tried restarting phone and reinstalling but nothing's working. Help!,technical,high
-T093,I'm trying to close my account but the option isn't showing up in the app. Can you sort this for me? I've got all my banking set up with another provider now.,account,medium
-T095,"Love the new budgeting features, but one thing that would be super useful is being able to set custom categories for tracking spending. Any chance this is on the roadmap?",low,other
-T096,I'm getting a bit frustrated - I've been trying to get verified for ages but the app keeps saying my ID documents aren't valid. I've uploaded them like 5 times now and it's still not working. Can someone please help me get this sorted?,account,medium
-T098,Had a bit of a disaster - I was trying to pay for my rent and the payment failed. Now I'm getting late payment fees from my landlord. Can you help me get the payment through and maybe waive any fees on your end?,billing,high
-T100,"Just a heads up, but I think there might be a bug in the app. Sometimes when I'm looking at my transaction history, the dates are all wrong. Not a huge deal, but thought you should know.",technical,medium
-T101,Urgent! My card's been blocked and I need to pay for something ASAP. I haven't received any emails or notifications about what's going on - can you please unblock it or at least tell me what's happening?,account,high
-T102,"Not sure what's going on, but I've been charged twice for the same subscription. I've tried contacting the company but they're saying it's Monzo's issue. Can you help me get a refund for the duplicate charge?",billing,medium
-T105,"Something's not feeling right. I got an email saying my account details had been changed, but I didn't make any changes. I've changed my password and all that, but I'm still a bit worried. Can you look into it and tell me what's going on?",account,high
-T106,"Hey, my card's been blocked and I have no idea why. I need to pay for a hotel room ASAP, can you help?",account,high
-T107,I'm getting a 'login failed' error every time I try to open the app. I've tried restarting my phone and everything.,technical,high
-T110,"The app is crashing every time I try to send money to a friend. It's really frustrating, can you fix this?",technical,high
-T111,I think I've been a victim of fraud. I've got a transaction on my account that I don't recognise. Please help!,billing,high
-T112,I've been trying to change my address in the app but it keeps saying 'error updating details'. Any ideas?,account,medium
-T113,"I love the new budgeting feature, but can you make it so we can set our own categories? That would be really helpful.",other,low
-T115,"I'm not sure what's going on, but my account balance is wrong. I've got a pending transaction that's been stuck for days.",billing,medium
-T116,I'm having trouble getting verified. I've uploaded my ID but it's saying it can't be verified. Any help?,account,medium
-T118,"Monzo's great and all, but I really wish you'd add support for Apple Watch. It's a bit annoying having to take my phone out all the time.",other,low
-T119,"Something weird is happening with my account. I've got a load of transactions that I don't recognise, but they're all really small. Is this some kind of glitch?",billing,high
+T136,I've been charged £10.99 for a subscription I don't recognise. Can you tell me what it's for and how to cancel?,billing,medium
+T137,"I'm trying to log in but the app keeps crashing. I've tried restarting my phone and updating the app, nothing's working.",technical,medium
+T138,I'd love to see a feature that allows me to split bills with friends more easily. Maybe a button to request money from multiple people at once?,other,low
+T139,"I love the new budgeting features, but it'd be great if you could add a way to track investments too. Just a suggestion!",other,low
+T140,"I'm having some trouble with the app. Sometimes it works, sometimes it doesn't. I've tried uninstalling and reinstalling but nothing seems to be working. Can you help me troubleshoot the issue?",technical,medium
+T141,The app just crashed on me and now I've lost all my pending payments. Can you guys do something about this? It's a bit of a disaster,technical,medium
+T142,"The Monzo card is great and all, but the contactless limit is a bit of a pain. Can we please increase it to like, £100 or something?",other,low
+T143,"I'm having some issues with currency conversion fees. I was charged 3% on a recent trip to the US, but I thought Monzo didn't charge for that? Can someone clarify?",billing,medium
+T144,"Monzo's great and all, but the customer support could be better. I've been waiting for a response for days and it's a bit frustrating. Can we please improve this?",other,low
+T145,App keeps crashing on me every time I try to make a payment. Tried restarting phone and reinstalling but nothing's working. Help!,technical,high
+T146,I'm trying to close my account but the option isn't showing up in the app. Can you sort this for me? I've got all my banking set up with another provider now.,account,medium
+T147,"Love the new budgeting features, but one thing that would be super useful is being able to set custom categories for tracking spending. Any chance this is on the roadmap?",low,other
+T148,I'm getting a bit frustrated - I've been trying to get verified for ages but the app keeps saying my ID documents aren't valid. I've uploaded them like 5 times now and it's still not working. Can someone please help me get this sorted?,account,medium
+T149,Had a bit of a disaster - I was trying to pay for my rent and the payment failed. Now I'm getting late payment fees from my landlord. Can you help me get the payment through and maybe waive any fees on your end?,billing,high
+T150,"Just a heads up, but I think there might be a bug in the app. Sometimes when I'm looking at my transaction history, the dates are all wrong. Not a huge deal, but thought you should know.",technical,medium
+T151,Urgent! My card's been blocked and I need to pay for something ASAP. I haven't received any emails or notifications about what's going on - can you please unblock it or at least tell me what's happening?,account,high
+T152,"Not sure what's going on, but I've been charged twice for the same subscription. I've tried contacting the company but they're saying it's Monzo's issue. Can you help me get a refund for the duplicate charge?",billing,medium
+T153,"Something's not feeling right. I got an email saying my account details had been changed, but I didn't make any changes. I've changed my password and all that, but I'm still a bit worried. Can you look into it and tell me what's going on?",account,high
+T154,"Hey, my card's been blocked and I have no idea why. I need to pay for a hotel room ASAP, can you help?",account,high
+T155,I'm getting a 'login failed' error every time I try to open the app. I've tried restarting my phone and everything.,technical,high
+T156,"The app is crashing every time I try to send money to a friend. It's really frustrating, can you fix this?",technical,high
+T157,I think I've been a victim of fraud. I've got a transaction on my account that I don't recognise. Please help!,billing,high
+T158,I've been trying to change my address in the app but it keeps saying 'error updating details'. Any ideas?,account,medium
+T159,"I love the new budgeting feature, but can you make it so we can set our own categories? That would be really helpful.",other,low
+T160,"I'm not sure what's going on, but my account balance is wrong. I've got a pending transaction that's been stuck for days.",billing,medium
+T161,I'm having trouble getting verified. I've uploaded my ID but it's saying it can't be verified. Any help?,account,medium
+T162,"Monzo's great and all, but I really wish you'd add support for Apple Watch. It's a bit annoying having to take my phone out all the time.",other,low
+T163,"Something weird is happening with my account. I've got a load of transactions that I don't recognise, but they're all really small. Is this some kind of glitch?",billing,high
